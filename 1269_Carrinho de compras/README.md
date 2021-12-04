@@ -33,7 +33,7 @@ A saída deve conter:
 
 Observação: Lembre-se de não exibir texto no input.
 
-<img src="source_readme/teste01.png" min-width="400px" max-width="400px" width="400px" align="center" alt="teste01">
+<img src="../source_readme/teste01.png" min-width="400px" max-width="600px" width="100%" align="center" alt="teste01">
 
 
 
