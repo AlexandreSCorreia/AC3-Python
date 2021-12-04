@@ -20,7 +20,7 @@ Como Forrest está muito ocupado ultimamente, planejando como cumprir uma promes
 
 - Nas linhas seguintes, os tempos de corrida abaixo da média calculada, em segundos, um por linha e na mesma ordem em que foram dados na entrada.
 
-<img src="source_readme/teste03.png" min-width="400px" max-width="400px" width="400px" align="center" alt="teste03">
+<img src="../source_readme/teste03.png" min-width="400px" max-width="600px" width="100%" align="center" alt="teste03">
 
 
 
