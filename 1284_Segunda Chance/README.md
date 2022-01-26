@@ -30,7 +30,7 @@ Note que as N primeiras notas correspondem as notas originais dos N primeiros al
 
 - As próximas N linhas serão as notas de todos os alunos, na mesma ordem dada na entrada, iniciando com asterisco ('*') para indicar as notas que foram alteradas e hífen ('-') para indicar aquelas que não foram, seguido pela posição da referida nota entre parênteses. O formato de cada linha pode ser observada nos exemplos, onde se destacam três características: (I) a posição tem sempre três dígitos, completada com zeros à esquerda quando necessário; (II) todas as notas são exibidas com duas casas decimais e; (III) todas as notas ocupam cinco colunas, incluindo o caractere ponto, e completadas com zeros à esquerda quando necessário.
 
-<img src="source_readme/teste04.png" min-width="400px" max-width="400px" width="400px" align="center" alt="teste04">
+<img src="../source_readme/teste04.png" min-width="400px" max-width="600px" width="100%" align="center" alt="teste04">
 
 
 
